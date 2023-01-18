@@ -1,3 +1,8 @@
+# 설명
+로컬스토리지를 활용한 어플리케이션을 제작하려했으나 현재 중단됨
+
+
+
 # AppLocalstorage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
